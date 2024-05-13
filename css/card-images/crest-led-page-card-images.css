@@ -1,0 +1,67 @@
+.banner{
+    background-image: url('../../Images/Banners/crest-lead-banner.jpg');   
+}
+
+.card--1 .card__img, .card--1 .card__img--hover {
+    background-image: url('../../Images/bulbs/crest-led/bulb-9.jpg');
+}
+
+.card--2 .card__img, .card--2 .card__img--hover {
+  background-image: url('../../Images/bulbs/crest-led/bulb-10.jpg');
+}
+
+.card--3 .card__img, .card--3 .card__img--hover {
+  background-image: url('../../Images/bulbs/crest-led/bulb-11.jpg');
+}
+
+.card--4 .card__img, .card--4 .card__img--hover {
+  background-image: url('../../Images/bulbs/crest-led/bulb-12.jpg');
+}
+
+.card--5 .card__img, .card--5 .card__img--hover {
+  background-image: url('../../Images/spot-light/crest-led/spot-light-9.jpg');
+}
+
+.card--6 .card__img, .card--6 .card__img--hover {
+  background-image: url('../../Images/spot-light/crest-led/spot-light-10.jpg');
+}
+
+.card--7 .card__img, .card--7 .card__img--hover {
+  background-image: url('../../Images/spot-light/crest-led/spot-light-11.jpg');
+}
+
+.card--8 .card__img, .card--8 .card__img--hover {
+background-image: url('../../Images/spot-light/crest-led/spot-light-12.jpg');
+}
+
+.card--9 .card__img, .card--9 .card__img--hover {
+background-image: url('../../Images/decorative-lights/crest-led/decorative-lights-9.jpg');
+}
+
+.card--10 .card__img, .card--10 .card__img--hover {
+background-image: url('../../Images/decorative-lights/crest-led/decorative-lights-10.jpg');
+}
+
+.card--11 .card__img, .card--11 .card__img--hover {
+background-image: url('../../Images/decorative-lights/crest-led/decorative-lights-11.jpg');
+}
+
+.card--12 .card__img, .card--12 .card__img--hover {
+background-image: url('../../Images/decorative-lights/crest-led/decorative-lights-12.jpg');
+}
+
+.card--13 .card__img, .card--13 .card__img--hover {
+  background-image: url('../../Images/smart-lights/crest-led/smart-light-9.jpg');
+  }
+  
+.card--14 .card__img, .card--14 .card__img--hover {
+  background-image: url('../../Images/smart-lights/crest-led/smart-light-10.jpg');
+  }
+  
+.card--15 .card__img, .card--15 .card__img--hover {
+  background-image: url('../../Images/smart-lights/crest-led/smart-light-11.jpg');
+  }
+
+.card--16 .card__img, .card--16 .card__img--hover {
+  background-image: url('../../Images/smart-lights/crest-led/smart-light-12.jpg');
+  }
