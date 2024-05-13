@@ -1,0 +1,5 @@
+Bootstrap color families
+
+Primary: logo red #660530
+Secondary: logo background #fef4e8
+Info: Logo red but brightest red #c8095e
